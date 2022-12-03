@@ -1,0 +1,46 @@
+:root {
+    --colorTab1 : #EBECD0;
+    --colorTab2 : #769656;
+}
+
+
+/* TABLERO */
+
+.fila {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+
+/* CASILLAS */
+
+.casilla {
+    width: 75px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.casilla:hover {
+    cursor: pointer;
+}
+
+.casilla1 {
+    background-color: var(--colorTab1);
+}
+
+.casilla2 {
+    background-color: var(--colorTab2);
+}
+
+.selected {
+    background-color: #F6F669;
+}
+
+
+/* FICHAS */
+
+i {
+    font-size: 50px;
+}

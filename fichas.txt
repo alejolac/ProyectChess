@@ -1,0 +1,6 @@
+TOWER - <i class="fa-solid fa-chess-rook"></i>
+BISHOP - <i class="fa-solid fa-chess-bishop"></i>
+KNIGHT - <i class="fa-solid fa-chess-knight"></i>
+PAWN - <i class="fa-solid fa-chess-pawn"></i>
+QUEEN - <i class="fa-solid fa-chess-queen"></i>
+KING - <i class="fa-solid fa-chess-king"></i>
